@@ -1,0 +1,24 @@
+{
+  "name": "2014-12-solo",
+  "version": "0.0.1",
+  "description": "Food Fight - Compare health information of two foods.",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davefedele/2014-12-solo.git"
+  },
+  "author": [
+    "David Fedele <dave.fedele@gmail.com>"
+  ],
+  "license": "ISC",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/davefedele/2014-12-solo/issues"
+  },
+  "homepage": "https://github.com/davefedele/2014-12-solo",
+  "dependencies": {
+    "express": "^4.11.0",
+    "grunt": "^0.4.5",
+    "request": "^2.51.0"
+  }
+}

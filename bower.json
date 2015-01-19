@@ -1,0 +1,22 @@
+{
+  "name": "2014-12-solo",
+  "version": "0.0.1",
+  "homepage": "https://github.com/davefedele/2014-12-solo",
+  "authors": [
+    "David Fedele <dave.fedele@gmail.com>"
+  ],
+  "description": "Food Fight - Compare health information of two foods.",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
